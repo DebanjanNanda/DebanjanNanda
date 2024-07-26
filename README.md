@@ -1,5 +1,10 @@
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=50&duration=4986&pause=1000&color=00F781&background=0D111700&center=true&vCenter=true&width=1000&height=100&lines=🎲+WELCOME+TO+MY+GITHUB+PAGE+🎲" alt="Typing SVG" />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=50&duration=4986&pause=1000&color=00F781&background=0D111700&center=true&vCenter=true&width=1000&height=100&lines=🎲+WELCOME+TO+MY+GITHUB+PAGE+🎲" alt="Typing SVG" />
+  </a>
+<div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h1 align="center">Hi 👋, I'm DEBANJAN NANDA</h1>
 <h3 align="center">A passionate Frontend Developer /Data Scintist from India</h3>
 <img aligm="right" alt="coading" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif">
