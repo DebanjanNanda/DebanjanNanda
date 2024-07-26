@@ -11,11 +11,10 @@
 
 - 🌱 I’m currently learning **Theoretical Computer Science**
 
-- 💬 Ask me about **Angular JS**
+- 💬 Ask me about **Angular JS, Machine Learning ,Deep Learning , Graph Theory**
 
 - 📫 How to reach me **nandadebanjan@gmail.com**
 
-- ⚡ Fun fact **I can make you smile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
